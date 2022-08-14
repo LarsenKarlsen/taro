@@ -1,0 +1,467 @@
+{
+    "deck":[
+        {
+            "title":"Шут",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/shut.jpg",
+            "descr": ["Открытость, любознательность, легкомыслие, неопределенность","Импульсивность, безответственность, измена, неопытность"],
+            "flip": false
+        },
+        {
+            "title":"Маг",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/mag.jpg",
+            "descr": ["Активная воля, энергетика, вдохновение, работа на себя, ясность ума","Нерешительность, эгоизм, отсутствие цели, крушение планов"],
+            "flip": false
+        },
+        {
+            "title":"Верховная жрица",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/verhovaya-zhrica.jpg",
+            "descr": ["Женское начало, гармония, терпение, тайные дела","Поверхностность, тщеславие, предубеждения, тайные враги"],
+            "flip": false
+        },
+        {
+            "title":"Императрица",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/imperatrica.jpg",
+            "descr": ["Плодородие, рождение, воспитание, духовная сила","Застой, депрессия, жадность, страдания"],
+            "flip": false
+        },
+        {
+            "title":"Император",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/imperator.jpg",
+            "descr": ["Превосходство разума, лидерство, амбиции, авторитет","Слабость, эмоциональная незрелость, бунтарство, зависимость"],
+            "flip": false
+        },
+        {
+            "title":"Верховный жрец",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/verhovnyi-zhrec.jpg",
+            "descr": ["Мудрость, традиции, духовный лидер, готовность к свадьбе","Упрямство, смелость, мстительность, фанатизм"],
+            "flip": false
+        },
+        {
+            "title":"Влюбленные",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/vlublennye.jpg",
+            "descr": ["Выбор, союз, доверие, здоровье, чувства","Измены, болезнь, конец любви, нетерпение"],
+            "flip": false
+        },
+        {
+            "title":"Колесница",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/kolesnica.jpg",
+            "descr": ["Успех, победа, цель, рывок вперед","Авария, неудача, обида, суровость"],
+            "flip": false
+        },
+        {
+            "title":"Сила",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/sila.jpg",
+            "descr": ["Женское начало, духовная сила, эмоциональный подъем, доверие","Страх, запугивание, тщеславие, запугивание"],
+            "flip": false
+        },
+        {
+            "title":"Отшельник",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/otshelnik.jpg",
+            "descr": ["Путь сознания, мудрость, открытия, духовный рост","Изгнание, подозрительность, ненужная изоляция, разрыв отношений"],
+            "flip": false
+        },
+        {
+            "title":"Колесо фортуны",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/koleso-fortuny.jpg",
+            "descr": ["Важное решение, уверенность в удаче, азарт","Невезение, тупик, застой"],
+            "flip": false
+        },
+        {
+            "title":"Правосудие",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/spravedlivost.jpg",
+            "descr": ["Карма, баланс, ответственность, честность","Конфликты, лень, крайности, утраты"],
+            "flip": false
+        },
+        {
+            "title":"Повешенный",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/poveshennyi.jpg",
+            "descr": ["Учение, урок, тупик, опыт, озарение","Материализм, озабоченность, тоска, апатия"],
+            "flip": false
+        },
+        {
+            "title":"Смерть",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/smert.jpg",
+            "descr": ["Освобождение, расставание, пробуждение, новый период","Потеря, застой, упрямство, отсутствие мотивации"],
+            "flip": false
+        },
+        {
+            "title":"Умеренность",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/umerennost.jpg",
+            "descr": ["Баланс, равновесие, компромисс, дружба, доверие","Фанатзим, ограниченность мышления, нестабильность"],
+            "flip": false
+        },
+        {
+            "title":"Дьявол",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/diyavol.jpg",
+            "descr": ["Искушения, тщеславие, эгоизм, садизм","Внутренняя сила, нерешительность, злоупотребление силой"],
+            "flip": false
+        },
+        {
+            "title":"Башня",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/padayushaya-bashnya.jpg",
+            "descr": ["Полный крах, очищение души, конфликт, прозрение","Угнетение, ограничение свободы, время начать все заново"],
+            "flip": false
+        },
+        {
+            "title":"Звезда",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/zvezda.jpg",
+            "descr": ["Надежда, вдохновение, образование, духовность, творчество","Потери, сомнения, разочарования, пессимизм"],
+            "flip": false
+        },
+        {
+            "title":"Луна",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/luna.jpg",
+            "descr": ["Мечта, страх, неуверенность в себе, обман","Хаос, непонимание, выгодные перемены, тревога"],
+            "flip": false
+        },
+        {
+            "title":"Страшный суд",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/strashnyi-sud.jpg",
+            "descr": ["Перерождение, выбор, конец эры, успех","Болезнь, разочарование, промедление, потери"],
+            "flip": false
+        },
+        {
+            "title":"Мир",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/mir.jpg",
+            "descr": ["Свобода, триумф, достижение, призвание","Застой, боязнь перемен, несовершенство, нехватка опыта"],
+            "flip": false
+        },
+        {
+            "title":"Туз кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/tuz-kubkov.jpg",
+            "descr": ["Открытия, подарок, дар судьбы, влюбленность","Одиночество, горе, потеря, угасание любви"],
+            "flip": false
+        },
+        {
+            "title":"Король кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/korol-kubkov.jpg",
+            "descr": ["Эмпатия, любезность, воображение, элегантность","Скандал, обман, незрелость, потакание"],
+            "flip": false
+        },
+        {
+            "title":"Королева кубков",
+            "img":"",
+            "descr": ["Успех, покой, сдержанность, воображение","Сарказм, заблуждение, нетерпимость, осуждение"],
+            "flip": false
+        },
+        {
+            "title":"Рыцарь кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/rycar-kubkov.jpg",
+            "descr": ["Внушение, скрытое намерение, настроение, розовые очки","Лож, инфантильность, иллюзии, пассивность"],
+            "flip": false
+        },
+        {
+            "title":"Паж кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pazh-kubkov.jpg",
+            "descr": ["Хорошие новости, импульс, шанс, толчок","Избалованность, мечтательность, изоляция, вредные привычки"],
+            "flip": false
+        },
+        {
+            "title":"Двойка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/dvoika-kubkov.jpg",
+            "descr": ["Дружба, любовь, примирение, рождение ребенка","Ревность, иллюзия, разлад"],
+            "flip": false
+        },
+        {
+            "title":"Тройка кубков",
+            "img":"",
+            "descr": ["Успех, дело, любовь, дружба, радость","Подлость, бесплодие, нетерпимость, эгоизм"],
+            "flip": false
+        },
+        {
+            "title":"Четверка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/chetverka-kubkov.jpg",
+            "descr": ["Обида, неуверенность, апатия, замкнутость","Шанс упущен, мотивация, знакомство, жалость к себе"],
+            "flip": false
+        },
+        {
+            "title":"Пятерка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pyaterka-kubkov.jpg",
+            "descr": ["Печаль, провал, проблемы в семье, выкидыш","Хорошие новости, смелость, одиночество, мотивация"],
+            "flip": false
+        },
+        {
+            "title":"Шестерка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/shesterka-kubkov.jpg",
+            "descr": ["Уют, покой, старый друг, дети, годовщина","Жить прошлым, беспокойство, событие"],
+            "flip": false
+        },
+        {
+            "title":"Семерка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/semerka-kubkov.jpg",
+            "descr": ["Трудности, ошибочный выбор, творческий прорыв","Боязнь успеха, разочарование, ложные обещания"],
+            "flip": false
+        },
+        {
+            "title":"Восьмерка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/vosmerka-kubkov.jpg",
+            "descr": ["Разочарование, неуверенность, скромность, честность","Посредственность, извинение, конец сложного этапа"],
+            "flip": false
+        },
+        {
+            "title":"Девятка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/devyatka-kubkov.jpg",
+            "descr": ["Достаток, успех, излишества, праздник, брак","Лишение, жадность, неудача, вредные привычки"],
+            "flip": false
+        },
+        {
+            "title":"Десятка кубков",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/desyatka-kubkov.jpg",
+            "descr": ["Счастье, семья, душевное спокойствие, начало","Предательство, семейные ссоры, потеря, печаль"],
+            "flip": false
+        },
+        {
+            "title":"Туз жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/tuz-zhezlov.jpg",
+            "descr": ["Новые начинания, наследство, перемены, возможности, сила","Бессилие, пессимизм, недостаток энергии, упрямство"],
+            "flip": false
+        },
+        {
+            "title":"Король жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/korol-zhezlov.jpg",
+            "descr": ["Гордость, честолюбие, активность, быстрая реакция","Вспыльчивость, строгость, нетерпимость, деспотизм"],
+            "flip": false
+        },
+        {
+            "title":"Королева жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/koroleva-zhezlov.jpg",
+            "descr": ["Успех, строгость, справедливость, любовь к роскоши","Ревность, обман, улуга, одолжение"],
+            "flip": false
+        },
+        {
+            "title":"Рыцарь жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/rycar-zhezlov.jpg",
+            "descr": ["Риск, нетерпение, крайности, энтузиазм","Препятствия, ревность, подозрительность"],
+            "flip": false
+        },
+        {
+            "title":"Паж жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pazh-zhezlov.jpg",
+            "descr": ["Молодой человек, танцор, энтузиазм, смелость","Переутомление, деспотизм, хвастовство, ненадежность"],
+            "flip": false
+        },
+        {
+            "title":"Двойка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/dvoika-zhezlov.jpg",
+            "descr": ["Интерес, нейтральная позиция, пустота, союз без тепла","Истощение, неприятные новости, конфликты, непонимание"],
+            "flip": false
+        },
+        {
+            "title":"Тройка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/troika-zhezlov.jpg",
+            "descr": ["Вершина, труд, материальное благополучие, поддержка","Небрежность, творческий застой, надменность, гордость"],
+            "flip": false
+        },
+        {
+            "title":"Четверка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/chetverka-zhezlov.jpg",
+            "descr": ["Гармония, мир, процветание, переезд","Крититка, ненадежность, разочарование, спешка"],
+            "flip": false
+        },
+        {
+            "title":"Пятерка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pyaterka-zhezlov.jpg",
+            "descr": ["Испытание, борьба, спор, задача, загадка","Возможности, переутомление, мир, гармония"],
+            "flip": false
+        },
+        {
+            "title":"Шестерка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/shesterka-zhezlov.jpg",
+            "descr": ["Успех, завершение, лидерские качества, мудрые решения","Неприятности, предательство, провал, поражение"],
+            "flip": false
+        },
+        {
+            "title":"Семерка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/semerka-zhezlov.jpg",
+            "descr": ["Мужество, критика, стойкость, напасть","Трусость, стыд, уход от проблем, ухудшение здоровья"],
+            "flip": false
+        },
+        {
+            "title":"Восьмерка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/vosmerka-zhezlov.jpg",
+            "descr": ["Зеленый свет, новые друзья, творческий прорыв, прогресс","Преграда, импульсивность, ненадежность, несогласие"],
+            "flip": false
+        },
+        {
+            "title":"Девятка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/devyatka-zhezlov.jpg",
+            "descr": ["Умпрямство, спокойствие, готовность к защите, финансовый успех","Неудача, бедствие, упертость, подозрительность"],
+            "flip": false
+        },
+        {
+            "title":"Десятка жезлов",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/desyatka-zhezlov.jpg",
+            "descr": ["Решительность окупится, ненужный груз, измена, скрытность","Недоверие, перегруженность, нечестность"],
+            "flip": false
+        },
+        {
+            "title":"Туз мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/tuz-mechei.jpg",
+            "descr": ["Решение проблемы, завоевание, свобода, решительность","Удар судьбы, проблемы, расставание, неудача в делах"],
+            "flip": false
+        },
+        {
+            "title":"Король мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/korol-mechei.jpg",
+            "descr": ["Ответственность, контроль, агрессивность, властность","Сарказм, эгоизм, злые намерения, эксплуатация"],
+            "flip": false
+        },
+        {
+            "title":"Королева мечей",
+            "img":"",
+            "descr": ["Проницательность, сарказм, карьера, амбиции, печаль","Заблуждение, нетерпимость, фанатизм, предательство"],
+            "flip": false
+        },
+        {
+            "title":"Рыцарь мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/rycar-mechei.jpg",
+            "descr": ["Упорство, порывистость, храбрость, гнев, защита","Ссоры, эгоизм, скрытность, непонимание"],
+            "flip": false
+        },
+        {
+            "title":"Паж мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pazh-mechei.jpg",
+            "descr": ["Шанс, возможность, начало конца, честность, решимость","Оскорбление, коварство, подозрительность, шпионаж"],
+            "flip": false
+        },
+        {
+            "title":"Двойка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/dvoika-mechei.jpg",
+            "descr": ["Сдерживание эмоций, дружба, любовь, стойкость","Вероломство, клевета, двуличие, выход из тупика"],
+            "flip": false
+        },
+        {
+            "title":"Тройка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/troika-mechei.jpg",
+            "descr": ["Разбитое сердце, конфликт, разрыв, неприятности","Отчуждение, потеря, беспорядок, выздоровление"],
+            "flip": false
+        },
+        {
+            "title":"Четверка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/chetverka-mechei.jpg",
+            "descr": ["Успокоение, застой, путешествие, самосозерцание","Обида, исцеление, проницательность, исцеление"],
+            "flip": false
+        },
+        {
+            "title":"Пятерка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pyaterka-mechei.jpg",
+            "descr": ["Позор, неудача, потеря, трусость","Эгоизм, слабость, ложная гордость"],
+            "flip": false
+        },
+        {
+            "title":"Шестерка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/shesterka-mechei.jpg",
+            "descr": ["Перемены, любопытство, шанс на удачу, путешествие","Признание, заявление, открытие, мало шансов"],
+            "flip": false
+        },
+        {
+            "title":"Семерка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/semerka-mechei.jpg",
+            "descr": ["Хитрость, провал, переезд, предательство","Лень, новость, выговор, упрек"],
+            "flip": false
+        },
+        {
+            "title":"Восьмерка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/vosmerka-mechei.jpg",
+            "descr": ["Слабость, препятствия, убеждения, ожидание неудачи","Освобождение от страха, застой, отдых"],
+            "flip": false
+        },
+        {
+            "title":"Девятка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/devyatka-mechei.jpg",
+            "descr": ["Страдания, сомнения, стыд, вина, событие","Надежда, утешение, изоляция, застенчивость"],
+            "flip": false
+        },
+        {
+            "title":"Десятка мечей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/desyatka-mechei.jpg",
+            "descr": ["Отчаяние, утрата, стресс, бедствие, грабеж","Могущество, прибыль, успех, авторитет"],
+            "flip": false
+        },
+        {
+            "title":"Туз пентаклей",
+            "img":"https://i.pinimg.com/474x/ef/c3/6c/efc36c251e958c52ed9bd3e13f1f88b4.jpg",
+            "descr": ["Процветание, независимость, удача, похвала, личные достижения","Тревога, поспешные решения, жадность"],
+            "flip": false
+        },
+        {
+            "title":"Король пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/korol-pentaklei.jpg",
+            "descr": ["Инстинкт, ум, хорошее чутье, терпеливость","Подлость, фанатизм, порок, гнев"],
+            "flip": false
+        },
+        {
+            "title":"Королева пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/koroleva-pentaklei.jpg",
+            "descr": ["Доброта, трудолюбие, сердечность, верность","Недоверчивость, жадность, хвастливость"],
+            "flip": false
+        },
+        {
+            "title":"Рыцарь пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/rycar-pentaklei.jpg",
+            "descr": ["Надежность, удача, терпение, выносливость","Жадность, апатия, мир, спокойствие"],
+            "flip": false
+        },
+        {
+            "title":"Паж пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pazh-pentaklei.jpg",
+            "descr": ["Шанс, усердие, изучение, доброта, решительность","Небрежность, самокритика, болезнь, ошибки"],
+            "flip": false
+        },
+        {
+            "title":"Двойка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/dvoika-pentaklei.jpg",
+            "descr": ["Хаотичность, эмоции, ловкость, безразличие, поездка","Провал планов, негибкость, упадок духа, беспокойство"],
+            "flip": false
+        },
+        {
+            "title":"Тройка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/troika-pentaklei.jpg",
+            "descr": ["Решающий шаг, помощь, уверенность, удовольствие","Мелочность, возмущение, отсутствие уважения"],
+            "flip": false
+        },
+        {
+            "title":"Четверка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/chetverka-pentaklei.jpg",
+            "descr": ["Алчность, скупость, подарок, наследство","Робость, подозрения, эгоизм, ссоры"],
+            "flip": false
+        },
+        {
+            "title":"Пятерка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/pyaterka-pentaklei.jpg",
+            "descr": ["Неприятности, потери, невезение, нет почвы под ногами","Старание, стойкость, новая работа, безработица"],
+            "flip": false
+        },
+        {
+            "title":"Шестерка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/shesterka-pentaklei.jpg",
+            "descr": ["Благотворительность, помощь, гордливость, наставничество","Кража, жадность, иллюзии, алчность"],
+            "flip": false
+        },
+        {
+            "title":"Семерка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/semerka-pentaklei.jpg",
+            "descr": ["Терпение, медленный рост, беременность, богатство","Проигрыш, жалость, нетерпение, депрессия"],
+            "flip": false
+        },
+        {
+            "title":"Восьмерка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/vosmerka-pentaklei.jpg",
+            "descr": ["Успех, работа, занятость, удача","Напрасный труд, ярлыки, нужда, притворство"],
+            "flip": false
+        },
+        {
+            "title":"Девятка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/devyatka-pentaklei.jpg",
+            "descr": ["Завершение работы, успех, труд, любовь к природе","Проблемы с законом, потеря друзей, финансовые потери"],
+            "flip": false
+        },
+        {
+            "title":"Десятка пентаклей",
+            "img":"https://astrohelper.ru/images/gadaniya/arkany/desyatka-pentaklei.jpg",
+            "descr": ["Мудрость, успех, стабильность, дом","Финансовые потери, риск, брак по расчету, слабость"],
+            "flip": false
+        }
+    ]
+}
+
